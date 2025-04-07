@@ -16,4 +16,3 @@ class TestSentimentAnalyzer (unittest.TestCase):
             ['dominant_emotion'], 'fear')
 
 unittest.main()
-
